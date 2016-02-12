@@ -1,4 +1,12 @@
 -------------------------------------------------------------------
+Fri Feb 12 12:42:19 UTC 2016 - knut.anderssen@suse.com
+
+- continue asking for registration codes also after failed
+  registration. you should go back to unselect some of not wanted
+  modules (bsc#958521)
+- 3.1.166
+
+-------------------------------------------------------------------
 Fri Nov  6 20:26:06 UTC 2015 - lslezak@suse.cz
 
 - always enable update repositories for modules during online
